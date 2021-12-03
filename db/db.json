@@ -1,22 +1,17 @@
 [
     {
-        "title": "banana",
-        "text": "chocolate",
-        "id": "de7ff25c-244f-40bb-a3e3-3dcc132be5a8"
+        "title": "Note 1",
+        "text": "This is a note",
+        "id": "5fa52ae5-8cb4-476c-9441-75c02d0570e5"
     },
     {
-        "title": "taco ",
-        "text": "bell",
-        "id": "00ecb75d-f250-4bcb-9741-d7f157179b75"
+        "title": "Note Too",
+        "text": "This is a note too.",
+        "id": "965a9468-2fa0-444a-b712-4829bf8db28b"
     },
     {
-        "title": "win",
-        "text": "lose",
-        "id": "5b22cbc3-f703-407f-b069-2b250d8b8392"
-    },
-    {
-        "title": "asdf",
-        "text": "adsf",
-        "id": "483bafd4-bda5-4d3e-8188-00d377e862c0"
+        "title": "Take out the trash.",
+        "text": "Please it is so stinky.",
+        "id": "a6ee4a04-5bf6-465a-9b04-b4d56e848176"
     }
 ]
